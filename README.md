@@ -34,5 +34,5 @@ pip install langchain langchain_community langchain-ollama ollama tenacity
 
 配置完成后使用命令行进行运行对话
 ```bash
-python localqa.py
+python langqa.py
 ```
